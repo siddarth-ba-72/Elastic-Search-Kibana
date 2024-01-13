@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Mapping and Analysis</p>
+# <p align="center">Mapping and Analysis</p>
 
 # Using the Analyze API
 

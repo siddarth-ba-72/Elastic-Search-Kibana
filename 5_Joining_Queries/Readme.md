@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Joining Queries</p>
+# <p align="center">Joining Queries</p>
 
 # Add departments test data
 

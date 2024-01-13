@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Controlling Query Results</p>
+# <p align="center">Controlling Query Results</p>
 
 # Specifying the result format
 

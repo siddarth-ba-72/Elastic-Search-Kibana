@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Getting Started</p>
+# <p align="center">Getting Started</p>
 
 # Setting up Elasticsearch & Kibana on Windows
 

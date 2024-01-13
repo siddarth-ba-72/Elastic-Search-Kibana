@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Managing Documents</p>
+# <p align="center">Managing Documents</p>
 
 # Creating & Deleting Indices
 

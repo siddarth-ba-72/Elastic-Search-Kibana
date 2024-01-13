@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Improving Search Results</p>
+# <p align="center">Improving Search Results</p>
 
 # Proximity searches
 

@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Searching for Data</p>
+# <p align="center">Searching for Data</p>
 
 # Searching for terms
 

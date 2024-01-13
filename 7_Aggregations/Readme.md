@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Aggregations</p>
+# <p align="center">Aggregations</p>
 
 # Introduction to aggregations
 
