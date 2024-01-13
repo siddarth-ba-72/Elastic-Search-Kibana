@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Aggregations</p>
+
 # Introduction to aggregations
 
 ## Adding `orders` index with field mappings

@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Getting Started</p>
+
 # Setting up Elasticsearch & Kibana on Windows
 
 ## Starting up Elasticsearch

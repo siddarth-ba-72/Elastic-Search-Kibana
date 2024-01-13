@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Joining Queries</p>
+
 # Add departments test data
 
 ## Create a new index

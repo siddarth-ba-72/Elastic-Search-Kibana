@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Managing Documents</p>
+
 # Creating & Deleting Indices
 
 ## Deleting an index

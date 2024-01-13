@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Improving Search Results</p>
+
 # Proximity searches
 
 ## Adding test documents

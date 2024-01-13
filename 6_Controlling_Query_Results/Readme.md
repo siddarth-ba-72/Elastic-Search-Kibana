@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Controlling Query Results</p>
+
 # Specifying the result format
 
 ## Returning results as YAML

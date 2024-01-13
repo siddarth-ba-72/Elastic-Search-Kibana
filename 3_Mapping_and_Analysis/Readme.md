@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Mapping and Analysis</p>
+
 # Using the Analyze API
 
 ## Analyzing a string with the `standard` analyzer
